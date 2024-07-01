@@ -1,0 +1,23 @@
+{
+  "OrderID": 12345,
+  "Address": "123 Calle Principal, Ciudad, País",
+  "Status": "Pending",
+  "Articles": [
+    {
+      "Name": "Producto A",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Producto B",
+      "Quantity": 1,
+      "Dangerous": true
+    },
+    {
+      "Name": "Producto C",
+      "Quantity": 5,
+      "Dangerous": false
+    }
+  ]
+}
+// api 1 GARCIA PABLO ANDRES 36.992.692
